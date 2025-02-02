@@ -54,6 +54,14 @@ Practices such as blinding, pre-regristration, and continuing education in modul
 *   Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) [http://www.prisma-statement.org/](http://www.prisma-statement.org/) 
 *   Transparency and Openness Promotion Guidelines (TOPS) [https://www.cos.io/initiatives/top-guidelines](https://www.cos.io/initiatives/top-guidelines)
 
+**Problem addressed:**
+The article discusses the reproducibility crisis in scientific research, which is caused by issues such as low statistical power, publication bias, P-hacking, and lack of transparency practices. These factors undermine the robustness, credibility, and efficiency of the scientific process.
+
+The manifesto calls for systemic changes across the scientific ecosystem, including:
+*   Researchers adopt rigorous methodological standards.
+*   Institutions, journals, and funders incentivize transparency and reproducibility.
+*   Conduct collaborative and multi-site studies to improve generalizability and effectiveness.
+
 **Definitions:**
 
 “A hallmark of _**scientific**_ creativity is the ability to see novel and unexpected patterns in data.” (Munafò et al., 2017, p. 1)
@@ -61,6 +69,9 @@ Practices such as blinding, pre-regristration, and continuing education in modul
 “Open _**science**_ refers to the process of making the content and process of producing evidence and claims transparent and accessible to others.” page 5
 
 “_**Reproducibility**_… verification of research (including, for example, sharing data and methods).” p. 5
+
+**Limitations:** 
+Implementation may vary across disciplines, and financial/resource constraints may hinder adoption.
 
 ## Freese 2007
 
