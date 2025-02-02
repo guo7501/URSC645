@@ -44,7 +44,7 @@ This annotated bibliography is for academic researchers interested in reproducib
 ---
 # Required Reading
 
-## Munafo et al 2017
+## Munafò et al, 2017
 Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., du Sert, N. P., Simonsohn, U., Wagenmakers, E., Ware, J.J., & Ioannidis, J. P. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. https://doi.org/10.1038/s41562-016-0021 
 
 In their article, Munafò et al. (2017) provide a strong argument for why reproducible science is important. The authors describe the potential for various forms of bias to lead to self-deception. Broadly, the areas to address are with individual scientists, the availability of large datasets and potential for rapid data analysis, and systems that do not incentivize transparent research. The authors argue that currently reproducibility and transparency are not the norms in social science, but that the benefits will lead to an eventual shift in the culture.
